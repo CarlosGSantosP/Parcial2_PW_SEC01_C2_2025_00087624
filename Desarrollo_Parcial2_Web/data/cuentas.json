@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Ana López",
+    "gender": "female",
+    "email": "ana.lopez@example.com",
+    "age": 28,
+    "balance": 1250.50,
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "name": "Carlos Martínez",
+    "gender": "male",
+    "email": "carlos.martinez@example.com",
+    "age": 35,
+    "balance": 980.00,
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "name": "María Ruiz",
+    "gender": "female",
+    "email": "maria.ruiz@example.com",
+    "age": 42,
+    "balance": 0,
+    "isActive": false
+  },
+  {
+    "id": 4,
+    "name": "Jorge Pérez",
+    "gender": "male",
+    "email": "jorge.perez@example.com",
+    "age": 30,
+    "balance": 452.75,
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "name": "Luisa Gómez",
+    "gender": "female",
+    "email": "luisa.gomez@example.com",
+    "age": 22,
+    "balance": 120.40,
+    "isActive": true
+  },
+  {
+    "id": 6,
+    "name": "Miguel Torres",
+    "gender": "male",
+    "email": "miguel.torres@example.com",
+    "age": 50,
+    "balance": 3400.00,
+    "isActive": false
+  },
+  {
+    "id": 7,
+    "name": "Sofía Herrera",
+    "gender": "female",
+    "email": "sofia.herrera@example.com",
+    "age": 27,
+    "balance": 215.30,
+    "isActive": true
+  }
+]
